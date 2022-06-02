@@ -3,6 +3,8 @@
 Purpose: "Create a release based workflow" GitHub Learning Lab course
 ```
 [GitHub Training "Create a Release Based Workflow"](https://lab.github.com/githubtraining/create-a-release-based-workflow)
+[Release Based Workflow](https://github.com/daniellemendoza/release-based-workflow)
+
 
 Technologies Used:
 - GitHub
